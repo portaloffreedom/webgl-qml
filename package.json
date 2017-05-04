@@ -1,0 +1,15 @@
+{
+  "name": "webgl-qml",
+  "version": "0.0.1",
+  "description": "QML renderer in JavaScript and WebGL",
+  "license": "GPL3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/portaloffreedom/webgl-qml.git"
+  },
+  "dependencies": {
+    "gl-matrix": "^2.3.2",
+    "qmlweb-parser": "^0.3.2",
+    "webgl-debug": "^1.0.2"
+  }
+}
